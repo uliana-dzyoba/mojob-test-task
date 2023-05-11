@@ -1,5 +1,19 @@
-# mojob-test-task
+# Mojob Test Task 2023
 
-![er](https://github.com/uliana-dzyoba/delivery-app-rest-api/blob/main/deliveryapp%20-%20public%20-%20orders_order.png?raw=true)
+#### Database Diagram
+![er])
 
-![usecases](https://github.com/uliana-dzyoba/delivery-app-rest-api/blob/main/use%20case.drawio.png?raw=true)
+#### Create job
+![create](https://raw.githubusercontent.com/uliana-dzyoba/mojob-test-task/main/images/job_create.png)
+
+#### Get job
+![create](https://raw.githubusercontent.com/uliana-dzyoba/mojob-test-task/main/images/job_get.png)
+
+#### Update job
+![create](https://raw.githubusercontent.com/uliana-dzyoba/mojob-test-task/main/images/job_update.png)
+
+#### Delete job
+![create](https://raw.githubusercontent.com/uliana-dzyoba/mojob-test-task/main/images/job_delete.png)
+
+#### Get user applications
+![create](https://raw.githubusercontent.com/uliana-dzyoba/mojob-test-task/main/images/applications.png)
