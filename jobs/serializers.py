@@ -12,7 +12,7 @@ class JobInlineSerializer(serializers.ModelSerializer):
 
 
 class JobHeaderSerializer(serializers.ModelSerializer):
-    plain_title_text = serializers.SerializerMethodField(read_only=True)
+    plain_title_text = serializers.SerializerMethodField()
 
     class Meta:
         model = JobHeader
