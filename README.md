@@ -4,22 +4,22 @@
 
 ### [Task PDF](Mojob%20Test%20Task%202023.pdf)
 
-#### Database Diagram
+### Database Diagram
 ![er](https://raw.githubusercontent.com/uliana-dzyoba/mojob-test-task/main/files/er.png)
 
-#### Create job
+### Create job
 ![create](https://raw.githubusercontent.com/uliana-dzyoba/mojob-test-task/main/files/job_create.png)
 
-#### Get job
+### Get job
 ![create](https://raw.githubusercontent.com/uliana-dzyoba/mojob-test-task/main/files/job_get.png)
 
-#### Update job
+### Update job
 ![create](https://raw.githubusercontent.com/uliana-dzyoba/mojob-test-task/main/files/job_update.png)
 
-#### Delete job
+### Delete job
 ![create](https://raw.githubusercontent.com/uliana-dzyoba/mojob-test-task/main/files/job_delete.png)
 
-#### Get user applications
+### Get user applications
 ![create](https://raw.githubusercontent.com/uliana-dzyoba/mojob-test-task/main/files/applications.png)
 
 [Django]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
